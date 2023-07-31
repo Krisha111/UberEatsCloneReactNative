@@ -1,0 +1,14 @@
+npm install react-native-google-places-autocomplete --save
+npm install --save react-native-vector-icons
+react-native-paper
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install react-native-gesture-handler
+npm install react-native-bouncy-checkbox
+npm install tslib
+npm install react-redux
+redux react-redux
+react-native-reanimated
+reanimated-bottom-sheet
+
+const YELP_API_KEY = "lRH0IJ6n9IOnzDdJduai5UHyXBIlQlOwD0qdLTzV9_h6CUxX0rAp6jC88VgT6_pdh8iK5vIKyYLsWwkliljgL3NnwtlX5qX9F6rv_CoDE2p3nxv3Z1eZX6k_B3iiZHYx"
